@@ -16,4 +16,6 @@ npm start
 ```
 
 ## Example window
+- For You tab will provide the project you may want to see.
+
 ![pic](https://github.com/juierror/HomeHack-React-Redux-Web-Application/blob/master/public/git01.jpg)
